@@ -18,7 +18,6 @@ A production-ready Shell-based automation framework for secure file exchange bet
 │ └── sftp_get_rps.sh # RPS inbound response
 ├── config/
 │ └── crontab.txt # Scheduling reference
-├── .gitignore
 └── README.md
 ```
 
