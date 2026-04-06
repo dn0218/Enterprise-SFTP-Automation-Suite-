@@ -10,6 +10,7 @@ A production-ready Shell-based automation framework for secure file exchange bet
 ---
 
 ## 🧩 Architecture Overview | 架构说明
+```bash
 .
 ├── scripts/
 │ ├── sftp_pull_jompay.sh # JomPay inbound processing
@@ -19,6 +20,7 @@ A production-ready Shell-based automation framework for secure file exchange bet
 │ └── crontab.txt # Scheduling reference
 ├── .gitignore
 └── README.md
+```
 
 
 ---
