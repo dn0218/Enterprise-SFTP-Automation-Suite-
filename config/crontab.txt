@@ -1,0 +1,5 @@
+```bash
+*/3 * * * * /med/data/SFTP/sftp_pull.sh >> /med/data/SFTP/sftp_pull.log 2>&1
+*/3 * * * * /med/data/RPS/sftp_put_RPS.sh >> /med/data/RPS/sftp_put_RPS.log 2>&1
+*/3 * * * * /med/data/RPS/sftp_get_RPS.sh >> /med/data/RPS/sftp_get_RPS.log 2>&1
+```
